@@ -1,0 +1,15 @@
+# changelog
+
+## [1.0.1] - 2023 - 11 - 07 
+
+### add
+
+- aggiunto dir package/
+- aggiunto dir flussi/
+- aggiunto dir log/
+- aggiunto dir bat/
+- aggiunto programma .py
+- aggiunto CHANGELOG.txt
+- aggiunto README.md
+- aggiunto trace.log
+
